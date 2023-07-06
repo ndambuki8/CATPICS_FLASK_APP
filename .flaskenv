@@ -1,2 +1,0 @@
-FLASK_APP=cat_pics_flask
-FLASK_DEBUG=True
